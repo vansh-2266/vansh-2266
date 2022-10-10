@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Raj</h1>
 <h3 align="center">A passionate frontend developer & Engineering Student from India</h3>
 
-<img align = "right" alt="Coding" width="600" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align = "right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-2266&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-2266" /> </p>
 
