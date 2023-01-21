@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-JS , Data-Structures**
 
-- 👨‍💻 All of my projects are available at [https://vanshraj.live/](https://vanshraj.live/)
+- 👨‍💻 All of my projects are available at [https://vanshraj.netlify.app/](https://vanshraj.netlify.app/)
 
 - 💬 Ask me about **frontend development and DSA**
 
