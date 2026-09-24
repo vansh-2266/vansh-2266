@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vansh Raj</h1>
-<h3 align="center">A passionate frontend developer & Engineering Student from India</h3>
+<h3 align="center">A Software Engineer from India</h3>
 
 <img align = "right" alt="Coding" width="500" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-2266&label=Profile%20views&color=0e75b6&style=flat" alt="vansh-2266" /> </p>
 
-- 🌱 I’m currently learning **React-JS , Data-Structures**
+- 🌱 I’m currently Building **Automotive products & solution For Multiple Global OEMs**
 
-- 👨‍💻 All of my projects are available at [https://vanshraj.netlify.app/](https://vanshraj.netlify.app/)
+- 👨‍💻 All of my older projects during my university - available at [https://vanshraj.netlify.app/](https://vanshraj.netlify.app/)
 
-- 💬 Ask me about **frontend development and DSA**
+- 💬 Ask me about **Building & Growing Together!**
 
 - 📫 How to reach me **rajvansh2510@gmail.com**
 
